@@ -1,0 +1,5 @@
+First name: Elizabeth
+Last Name: Musau
+Registration Number: J76/6637/2021
+Gender: Female
+Course: Aerospace Eng

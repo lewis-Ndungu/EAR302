@@ -1,0 +1,7 @@
+Contents of  "ikw jru.txt"  are :
+
+First name: 	  ikw
+Last Name: 	  jru
+Registration Number: fhwe
+Gender: 		  Others
+Course: 		  leuther

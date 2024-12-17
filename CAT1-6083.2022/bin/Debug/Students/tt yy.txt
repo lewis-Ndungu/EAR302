@@ -1,0 +1,7 @@
+Contents of  "tt yy.txt"  are :
+
+First name: 	  tt
+Last Name: 	  yy
+Registration Number: yyu
+Gender: 		  
+Course: 		  uu

@@ -1,0 +1,7 @@
+Contents of  "Lewis Ndunguw.txt"  are :
+
+First name: 	  Lewis
+Last Name: 	  Ndunguw
+Registration Number: ieof
+Gender: 		  Others
+Course: 		  ewioo

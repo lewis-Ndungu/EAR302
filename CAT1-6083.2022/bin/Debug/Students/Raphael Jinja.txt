@@ -1,0 +1,8 @@
+Contents of  "Raphael Jinja.txt"  are :
+
+First name: 	   Raphael
+Last Name: 	   Jinja
+Registration Number:  J76/6110/2022`
+Gender: 		   Male
+Course: 		   Aerospace Engineering
+Additional Information: Disable

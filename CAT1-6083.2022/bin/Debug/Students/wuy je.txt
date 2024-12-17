@@ -1,0 +1,7 @@
+Contents of  "wuy je.txt"  are :
+
+First name: 	  wuy
+Last Name: 	  je
+Registration Number: jklf
+Gender: 		  Male
+Course: 		  wilh
