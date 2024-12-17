@@ -1,7 +1,0 @@
-Contents of  "Lewis Ndun.txt"  are :
-
-First name: 	  Lewis
-Last Name: 	  Ndun
-Registration Number: je73
-Gender: 		  Male
-Course: 		  jwfhwjk

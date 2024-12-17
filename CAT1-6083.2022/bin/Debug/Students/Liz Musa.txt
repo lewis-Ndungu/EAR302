@@ -1,7 +1,0 @@
-Contents of  "Liz Musa.txt"  are :
-
-First name: 	  Liz
-Last Name: 	  Musa
-Registration Number: 3eo
-Gender: 		  Male
-Course: 		  jni

@@ -1,8 +1,0 @@
-Contents of  "Lewis Ndungu.txt"  are :
-
-First name: 	   Lewis
-Last Name: 	   Ndungu
-Registration Number:  J76/6083/2022
-Gender: 		   Male
-Course: 		   Aerospace Engineering
-Additional Information: Is visually impared

@@ -1,8 +1,0 @@
-Contents of  " .txt"  are :
-
-First name: 	   
-Last Name: 	   
-Registration Number:  
-Gender: 		   
-Course: 		   
-Additional Information:  

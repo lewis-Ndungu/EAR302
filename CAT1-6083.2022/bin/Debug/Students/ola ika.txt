@@ -1,7 +1,0 @@
-Contents of  "ola ika.txt"  are :
-
-First name: 	  ola
-Last Name: 	  ika
-Registration Number: eyf
-Gender: 		 Male
-Course: 		 uo

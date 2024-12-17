@@ -1,7 +1,0 @@
-Contents of  "ola meow.txt"  are :
-
-First name:    ola
-Last Name:    meow
-Registration Number: jdh
-Gender:    Male
-Course:    aed
